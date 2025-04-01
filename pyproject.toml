@@ -1,0 +1,13 @@
+[project]
+name = "image-organizer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ffmpeg-python>=0.2.0",
+    "logging>=0.4.9.6",
+    "pillow>=11.1.0",
+    "pyexiftool>=0.5.6",
+    "pytz>=2025.1",
+]
